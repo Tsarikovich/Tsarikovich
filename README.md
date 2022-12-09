@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tsarikovich
 - 👀 I’m interested in Python and Crypto
-- 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: tg: arthurtsr
 
