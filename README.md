@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tsarikovich
-- 👀 I’m interested in Python and Crypto
+- 👀 I’m interested in Python, Crypto and ML
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me: tg: arthurtsr
+- 📫 How to reach me: Telegram: @arthurtsr
 
 <!---
 Tsarikovich/Tsarikovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
