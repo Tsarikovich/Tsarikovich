@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **artur.tsar.tsarikovich@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VTI6Ftd4Sy9GLCCX5X48O4LFJFjGWaKK/view?usp=share_link](https://drive.google.com/file/d/1VTI6Ftd4Sy9GLCCX5X48O4LFJFjGWaKK/view?usp=share_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arturunderz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arturunderz" height="30" width="40" /></a>
