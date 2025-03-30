@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsarikovich&label=Profile%20views&color=0e75b6&style=flat" alt="tsarikovich" /> </p>
 
-<p align="left"> <a href="https://twitter.com/arturunderz" target="blank"><img src="https://img.shields.io/twitter/follow/arturunderz?logo=twitter&style=for-the-badge" alt="arturunderz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xxxxccccjej" target="blank"><img src="https://img.shields.io/twitter/follow/arturunderz?logo=twitter&style=for-the-badge" alt="arturunderz" /></a> </p>
 
 - 👀 I’m interested in **Python, Crypto and ML**
 
