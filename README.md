@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/xxxxccccjej" target="blank"><img src="https://img.shields.io/twitter/follow/xxxxccccjej?logo=twitter&style=for-the-badge" alt="arturunderz" /></a> </p>
 
-- 👀 I’m interested in **Python, Crypto and ML**
+- 👀 I’m interested in **Python/Go, System Design & Architecture, AI tooling**
 
 - 🌱 I’m currently reading **Robert C. Martin - Design & Architecture**
 
