@@ -28,7 +28,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tsarikovich&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Tsarikovich&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/galaga.svg" height="150" alt="trophy graph"  />
 </div>
 
